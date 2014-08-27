@@ -1,0 +1,19 @@
+
+Hud.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+touchBackground
+  rotate: false
+  xy: 2, 2
+  size: 135, 138
+  orig: 135, 138
+  offset: 0, 0
+  index: -1
+touchKnob
+  rotate: false
+  xy: 139, 2
+  size: 135, 138
+  orig: 135, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+{
+	
+	models:[
+	{
+	modelfile: "sf.g3dj",
+	collisionsize : 1
+	}
+	]
+	
+}
+		

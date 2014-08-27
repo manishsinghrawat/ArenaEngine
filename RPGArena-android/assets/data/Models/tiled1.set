@@ -1,0 +1,9 @@
+{
+	"modelfile":"tiled.g3dj",
+	"models":[
+		{
+			"nodeid":"Plane",
+			"rotation":0,
+		}
+		]
+}
